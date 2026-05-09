@@ -1,4 +1,4 @@
-
+Enhance Ulysses for macOS with Ulysses for macOS vip Tool: offline access & markdown support, the #1 tool. Includes offline access and markdown support for a smoother experience.
 
 
 
